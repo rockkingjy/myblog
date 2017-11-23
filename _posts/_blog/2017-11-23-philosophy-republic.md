@@ -3,7 +3,7 @@ layout: post
 title:  "《理想国》课程笔记 丁耘"
 date:   2017-11-23 05:16:01 -0300 
 categories: blog
-tags: ['Philosophy']
+tags: ['philosophy']
 published: true
 comments: true 
 excerpted: |
