@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2017-04-12 05:16:01 -0300 
 categories: blog
-tags: 
+tags: ['example']
 published: true
 comments: true 
 excerpted: |
