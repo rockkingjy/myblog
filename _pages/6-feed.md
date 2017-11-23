@@ -9,7 +9,7 @@ ga_event: false
 icon: fa-rss
 
 # Enable / Disable this page in the main menu.
-menu: true
+menu: false
 
 published: true
 permalink: /feed.xml

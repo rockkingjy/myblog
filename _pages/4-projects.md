@@ -13,7 +13,7 @@ ga_event: true
 icon: fa-briefcase
 
 # Enable / Disable this page in the main menu.
-menu: true
+menu: false
 
 published: true
 

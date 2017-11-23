@@ -80,7 +80,7 @@ website:
 
 # Category: User Data.
 userdata:
-  email: youremail@domain.com
+  email: rockking.jy@gmail.com
   twitter: "@my_twitter"
   disqus:
     username:
@@ -92,7 +92,7 @@ userdata:
       - title: GitHub
         id: github
         icon: fa-github
-        url: https://github.com
+        url: https://github.com/rockkingjy
       - title: Twitter
         id: twitter
         icon: fa-twitter
