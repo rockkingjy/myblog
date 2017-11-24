@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "欧陆哲学与英美哲学 下 - 英美哲学 陈亚军"
+title:  "《欧陆哲学与英美哲学 下 - 英美哲学》课程笔记 陈亚军"
 date:   2017-11-23 05:16:01 -0300 
 categories: blog
 tags: ['philosophy']
 published: true
 comments: true 
 excerpted: |
-    欧陆哲学与英美哲学 下 - 英美哲学 陈亚军 ...
+    欧陆哲学与英美哲学 下 - 英美哲学》课程笔记 陈亚军 ...
 day_quote:
     title: "Quote Day"
     content: |

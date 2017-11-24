@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "欧陆哲学与英美哲学 上 - 欧陆哲学 王恒"
+title:  "《欧陆哲学与英美哲学 上 - 欧陆哲学》课程笔记 王恒"
 date:   2017-11-23 05:16:01 -0300 
 categories: blog
 tags: ['philosophy']
 published: true
 comments: true 
 excerpted: |
-    欧陆哲学与英美哲学 上 - 欧陆哲学 王恒 ...
+    《欧陆哲学与英美哲学 上 - 欧陆哲学》课程笔记 王恒 ...
 day_quote:
     title: "Quote Day"
     content: |
