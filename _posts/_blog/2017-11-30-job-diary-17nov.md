@@ -26,6 +26,7 @@ script: [post.js]
 
 Tasks | Achieved Date
 ----- | --------
+Setup nv-caffe and DIGITS on the new GPU server | 11/30
 Setup a new GPU server | 11/29
 Image data categorization by hand | 11/28
 ZED camera data requirement | 11/27 
@@ -37,20 +38,16 @@ Setup and run sample for OpenKAI on Laptop | 11/07
 Setup and run sample for OpenKAI on TX2 | 11/06
 Prepare a GPU parts list | 11/02
 
-* Tasks still developing:
-  * Setup a new GPU server
-  * Setup nv-caffe and DIGITS on the new GPU server
-  * Aerial ImageDB augmentation with OpenKAI
 
-# 2017/11/29 Wednesday
+# 2017/11/29~30 Wednesday
 * Setup a GPU server
   * Complete.
   * Some tricks: 
   1. The paste for CPU should not too much.
   2. Attention to the fans' air flow directions.
   3. GPUs need double power supplies.
-  4. 512G Nvme SSD for op system, normal 3*1T SSD for data treatments, 10T HDD for store data.
-
+  4. 512G Nvme SSD for op system, normal 3*1T SSD for data treatments, 10T HDD for store data
+  5. Ubuntu 16.04, without HDMI input, it will not boot up. So I used a USB to HDMI converter with a HDMI cable to fake a monitor. 
 
 # 2017/11/28 Tuesday
 * Setup a GPU server
