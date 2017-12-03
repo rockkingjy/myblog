@@ -21,9 +21,11 @@ script: [post.js]
 * Do not remove this line (it will not be displayed)
 {: toc}
 
-Life is quite a sensitive thing, not like job, which is occupied by reason, most of the ordinary life is full of emotions, feelings, love, hate etc. But English is not fit for this, which is a language of science and technology. So I will use Chinese and sometimes French for this personal diary.
+Life is quite a sensitive thing, not like job, which is occupied by reason, most of the ordinary life is full of emotions, feelings, love, hate etc. English is not fit for this, which is a language of science and technology. So I will use Chinese and sometimes French for this personal diary.
 
-# 2017/12/03
+# 2017/12/03 
+* 1
+
 日本的冬日格外得冷，不像法国的冬日，冷中带着暖暖的气息，而这儿，却是入骨的寒。
 
 夜里不知做了什么梦，迷迷糊糊，依稀记得昨晚和初中老友夜谈，追溯往昔，甚是感怀。
@@ -32,6 +34,9 @@ Life is quite a sensitive thing, not like job, which is occupied by reason, most
 
 毕竟那是在我指间逝去，不可重来的人生。
 
+* 2
+
+昨日法国学校在举行毕业典礼。而我远在日本，无法回去参加，难免有些许的失落。会想这几年的四处漂泊，留学法国，绕了圈欧洲，又辗转来到日本，总总过往，似乎到了该总结的时候。但提笔时种种思绪，又不知从何说起。也罢，放以后慢慢说吧。
 
 
 
