@@ -97,9 +97,10 @@ Holiday, finally successfully set my blog([Codes](https://github.com/rockkingjy/
 # 2017/11/22 Wednesday
 * ZED camera data requirement 
   * Solve the boot time running problem yesterday, that because the linux haven’t mount the SD card before I click it, so needs to mount it manually. [[Codes](https://github.com/rockkingjy/ZedDataCollection)]
-  * Change the default carrier board to Auvidea carrier board, meet some problems on USB not working, because the firmware needs to be changed. 
+  * Change the default carrier board to [Auvidea carrier board](https://auvidea.com)->Support->Firmware->Firmware for Jetson TX2 based carrier boards, meet some problems on USB not working, because the firmware needs to be changed. 
   * Install JetPack, download “ChangesTX2J140_Kernel” from the website, do as the readme.txt told me(Remember to replace ALL the files, not only the first three files).
 * When run JetPack to flash the TX2 board, some key points:
+  * Change the default carrier board to [Auvidea carrier board](https://auvidea.com)->Support->Firmware->Firmware for Jetson TX2 based carrier boards, if you use Auvidea. 
   * Connect the minusb port of TX2 to usb of the computer, internet port to computer by a internet/usb converter;
   * Change “opencv4tegra" to no-action, because openKai do not support the opencv version here;
   * To flash TX2, do the following: power on->hold the reset key-> press the recovery key->the the internet port light flash, release all->check on the computer by $lsusb, a Nvidia device appears->continue the flashing.
